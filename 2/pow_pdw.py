@@ -39,7 +39,7 @@ def pow_re(x,n,top=True):
 	if n == 0:
 		return 1
 	else:
-		a =  pow_re(a, n-1, False)
+		a *= pow_re(a, n-1, False)
 		if top:
 			stop = time.time()
 			run_time = stop - start
