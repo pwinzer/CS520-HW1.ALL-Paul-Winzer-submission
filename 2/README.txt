@@ -1,4 +1,4 @@
-pow_pdw.py contained two functions as a solution to Problem 2
+pow_pdw.py contains two functions as a solution to Problem 2
 
 pow_it() gives the iterative solution
 
