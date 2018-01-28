@@ -7,3 +7,5 @@ pow_re() give the recursive solution
 Both functions also print their runtime
 
 io_example.png shows how to run from command line in directory where pow_pdw.py exists
+
+No compilation necessary, guaranteed to run with python 2.7 and maybe other 2.x
